@@ -91,7 +91,7 @@ def confidence(associations, d, min_confidence):
     print(ans)
 
 
-def find(min_support, min_confidence, file_loc):
+def apriori(min_support, min_confidence, file_loc):
     trans = read_data()
     number_of_trans = [len(i) for i in trans.values()]
     items_lst = set()
