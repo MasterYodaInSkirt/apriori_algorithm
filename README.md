@@ -1,4 +1,4 @@
-# apriori_algorithm:
+# apriori_algorithm learning:
 # data mining algorithm for frequent item set mining and association rule learning
 
 
